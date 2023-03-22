@@ -2,6 +2,8 @@
 
 In this assessment, you will be making a minor User management API. Most of the files and database is set up for you. You just need to create the routes in the `routes/user.js` file.
 
+To get started, make sure you run `npm install` in this directory to install all modules
+
 When you want to check, there are 2 ways you can run the server.
 
 - `npm run start` or `npm start`

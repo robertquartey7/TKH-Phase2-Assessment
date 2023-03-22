@@ -1,5 +1,7 @@
 # React Assessment
 
+To get started, make sure you run `npm install` in this directory to install all modules
+
 In this assessment, you will need to fetch from a the Pokemon API **using** the SWR React hook and display a list of pokemon.
 
 - [ ] Install SWR
